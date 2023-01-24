@@ -1,13 +1,13 @@
-global.you = ['6285850539404'] 
+global.you = ['6288271138135'] 
 //Developer Bot
 global.namebot = 'oscar'
-global.rowner = ['6285850539404', '16199961931'] // Real Owner Bot
-global.owner = ['6285850539404'] // Owner Bot
+global.rowner = ['6288271138135', '16199961931'] // Real Owner Bot
+global.owner = ['6288271138135'] // Owner Bot
 global.police = [] // Police Bot
 global.mods = []  // Want some help?
 global.prems = [] // Premium user has unlimited limit
 
-global.helper = ['6285850539404']
+global.helper = ['6288271138135']
 global.api = '45083080630f3830a5bed882'
 global.APIs = { // API Prefix
   // name: 'https://website'
